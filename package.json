@@ -1,0 +1,22 @@
+{
+  "name": "sulky-optimizer-html-minifier",
+  "version": "1.0.0",
+  "description": "an optimizer for sulky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shingle/sulky-optimizer-html-minifier.git"
+  },
+  "author": "littlebang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shingle/sulky-optimizer-html-minifier/issues"
+  },
+  "homepage": "https://github.com/shingle/sulky-optimizer-html-minifier",
+  "dependencies": {
+    "html-minifier": "^0.7.2"
+  }
+}
